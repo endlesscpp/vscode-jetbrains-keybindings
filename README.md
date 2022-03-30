@@ -1,5 +1,7 @@
 # JetBrains-like Keymap for Visual Studio Code.
 
+## [Forked from isudox's version, use MAC keymap on Linux"
+
 [![Build Status](https://travis-ci.com/isudox/vscode-jetbrains-keybindings.svg?branch=master)](https://travis-ci.com/isudox/vscode-jetbrains-keybindings)
 [![Marketplace](https://vsmarketplacebadge.apphb.com/version-short/isudox.vscode-jetbrains-keybindings.svg)](https://marketplace.visualstudio.com/items?itemName=isudox.vscode-jetbrains-keybindings)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs/isudox.vscode-jetbrains-keybindings.svg)](https://marketplace.visualstudio.com/items?itemName=isudox.vscode-jetbrains-keybindings)
